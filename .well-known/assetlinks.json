@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "kr.damayo.app",
-    "sha256_cert_fingerprints": ["YOUR_SHA256_FINGERPRINT"]
+    "sha256_cert_fingerprints": ["F7:7B:D4:52:5F:B8:B5:AC:97:42:E9:08:D1:1B:27:BA:E9:3F:D5:B6:29:3D:E3:29:4D:47:37:39:08:51:BB:3B"]
   }
 }]
